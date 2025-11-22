@@ -65,10 +65,3 @@ A scalable end-to-end data engineering pipeline that consumes real-time cryptocu
 4.  **Verify Components**
 
 5.  **Check Data Flow**
-
-
------
-
-  * Add **Unit Tests** for the PySpark transformation logic.
-  * Implement a **Dead Letter Queue (DLQ)** in Kafka for malformed messages.
-  * Visualize the `analytics.daily_summary_dw` table using a tool like Superset or Metabas
