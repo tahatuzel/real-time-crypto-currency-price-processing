@@ -58,7 +58,7 @@ A scalable end-to-end data engineering pipeline that consumes real-time cryptocu
 
 1.  **Clone the repository**
 
-2.  **Create Environment File**
+2.  **Create Environment File and set(AIRFLOW_UID,POSTGRES_USER,POSTGRES_PASSWORD,POSTGRES_DB,POSTGRES_PORT)**
   
 3.  **Spin up Infrastructure**
 
